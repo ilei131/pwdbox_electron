@@ -15,12 +15,12 @@ const About: React.FC<PageProps> = () => {
         Copyright © {new Date().getFullYear()}{' '}
         <a
           onClick={() => {
-            shell.openExternal('https://github.com/lanten')
+            shell.openExternal('https://openwit.net')
           }}
         >
-          lanten.
+          openwit.
         </a>{' '}
-        All rights (demo)
+        All rights
       </p>
     </div>
   )

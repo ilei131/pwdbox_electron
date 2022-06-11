@@ -4,7 +4,7 @@ const routes: RouteConfig[] = [
     path: '/',
     redirectTo: '/demo?form=home',
     windowOptions: {
-      title: 'App Home (redirect to demo)',
+      title: 'Privacy Box',
       width: 1200,
       height: 800,
       minWidth: 800,

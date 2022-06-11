@@ -1,5 +1,11 @@
 [
   {
+    "key": "Account",
+    "href": "#/account",
+    "title": "Account",
+    "icon": "account-box"
+  },
+  {
     "key": "Demo",
     "href": "#/",
     "title": "Home",
